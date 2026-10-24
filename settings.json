@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Calfulina.aternos.me:63283",
-    "port": 25565,
+    "ip": "Calfulina.aternos.me",
+    "port":63283,
     "version": "1.20.1",
     "try-creative": false
   },
