@@ -1,12 +1,12 @@
 {
-  "name": "Steve",
+  "name": "Calfulina",
   "bot-account": {
-    "username": "MyMelody",
+    "username": "calfulina",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
+    "ip": "Calfulina.aternos.me:63283",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "calfulina123"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Hey regular player",
+        "Subscribe to Croxblox!",
+        "Want to Join My Discord server? https://discord.gg/Hd5myxDDhN"
       ]
     },
     "chat-log": true,
